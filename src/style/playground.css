@@ -121,3 +121,11 @@
     background-color: #629f9e;
     border: 1px solid #629f9e;
 }
+
+.code-editor{
+    width: 100%;
+}
+
+.input-editor{
+    width: 100%;
+}
